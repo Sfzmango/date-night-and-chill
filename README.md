@@ -1,4 +1,4 @@
-# Daily-Schedule-Planner
+# Date Night and Chill
 
 ## <ins> Table of Contents: </ins>
 
